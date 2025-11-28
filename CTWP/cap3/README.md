@@ -14,7 +14,7 @@
 
 ### Coordenador(a)
 
-* [Nome do Coordenador]
+* Andre Godoi Chiovato
 
 ## Descrição
 
